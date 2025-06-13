@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+Backend/Nodejs backend test/node_modules/
+
