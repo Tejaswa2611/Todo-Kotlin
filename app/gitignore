@@ -1,0 +1,13 @@
+# Kotlin/Java/Android stuff:
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+*.iml
+
+# Mac and system files:
+*.log
